@@ -5,8 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 import pyautogui as pag
 import time
-username = '10kh9643'
-password = 'wtsmn'
+username = 'u'
+password = 'p'
 licznik = 0
 pag.FAILSAFE = True
 while_var = True
